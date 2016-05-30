@@ -1,0 +1,41 @@
+/* pty comuni agli elementi semantici */
+section, header, footer {
+    margin: 20px;
+    border: 1px solid black;
+    padding: 10px;
+    /* imposto un'altezza minima a 60px */
+    min-height: 60px;
+}
+
+/* uso la classe grayBackground */
+.grayBackground {
+    background-color: #F0F2F1;
+}
+
+/* uso la classe tanBackground */
+.tanBackground {
+    background-color: #D4C0A7;
+}
+
+/* uso la classe purpleBackground */
+.purpleBackground {
+    background-color: #B2A4A1;
+}
+
+/* pty della classe purpleBackgorund ma usati solo dallo
+elemento header */
+header.purpleBackground {
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+
+/* pty dell'h1 discentente dell'header con classe .purpleBackground */
+header.purpleBackground > h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* pty della section con class grayBackground */
+section.grayBackground {
+    color: #938373;
+}
