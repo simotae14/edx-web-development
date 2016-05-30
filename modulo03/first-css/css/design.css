@@ -1,0 +1,35 @@
+body {
+    background-color: #fbf8e5;
+    color: #6E7D9E;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #080607;
+    color: #A5B7C5;
+    padding: 10px 20px;
+}
+
+header > h1 {
+    letter-spacing: 5px; /* aumentata la dimensione fra lettere */
+}
+
+article > h2 {
+    /* aumento effetto bold */
+    font-weight: bolder;
+}
+
+article > h2::before {
+    content: "\002329"; /* è il carattere < messo appena prima h2*/
+    color: #F9C989;
+}
+
+article > h2::after {
+    content: "\00232A"; /* è il carattere > messo appena prima h2*/
+    color: #F9C989;
+}
+
+footer {
+    background-color: #A5B7C5;
+    padding: 5px 10px;
+}
