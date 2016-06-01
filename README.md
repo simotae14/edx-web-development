@@ -30,7 +30,7 @@ List of samples:
     - [Secondo Assignment: aggiunta form Contoso News](http://simotae14.github.io/edx-web-development/modulo02/assignment-contoso-webpage/index)
  - module03, css:
     - [Esempio primo CSS](http://simotae14.github.io/edx-web-development/modulo03/first-css/index)
-    - [Esempio uso CSS](http://simotae14.github.io/edx-web-development/modulo03/exercise-using-css/index)
+    - [Esempio uso CSS](http://simotae14.github.io/edx-web-development/modulo03/exercise-using-ccs/index)
     - [Esempio uso Classi CSS](http://simotae14.github.io/edx-web-development/modulo03/css-classes/index)
     - [Esempio uso Combinazione di Classi CSS](http://simotae14.github.io/edx-web-development/modulo03/css-combining-classes/index)
     - [Esempio uso Combinazione di Selettori](http://simotae14.github.io/edx-web-development/modulo03/exercise-combining-selectors/index)
