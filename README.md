@@ -41,7 +41,7 @@ List of samples:
     - [Esempio sulle Media Queries](http://simotae14.github.io/edx-web-development/modulo03/exercise-media-queries/index)
     - [Terzo Assignment: aggiunta Css Contoso News](http://simotae14.github.io/edx-web-development/modulo03/assignment-contoso-webpage/index)
  - module04, JavaScript:
-    - [Esempio primo JS](http://simotae14.github.io/edx-web-development/modulo04/first-js/index)
+    - [Esempio primo JS](http://simotae14.github.io/edx-web-development/modulo04/exercise-first-js/index)
     - [Esempio Propagazione Eventi](http://simotae14.github.io/edx-web-development/modulo04/bubbled-events/index)
     - [Esempio di Callback](http://simotae14.github.io/edx-web-development/modulo04/callback-sample/index)
     - [Esercizio sulle Callback](http://simotae14.github.io/edx-web-development/modulo04/exercise-callbacks/index)
