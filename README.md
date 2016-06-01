@@ -32,7 +32,7 @@ List of samples:
     - [Esempio primo CSS](http://simotae14.github.io/edx-web-development/modulo03/first-css/index)
     - [Esempio uso CSS](http://simotae14.github.io/edx-web-development/modulo03/exercise-using-ccs/index)
     - [Esempio uso Classi CSS](http://simotae14.github.io/edx-web-development/modulo03/css-classes/index)
-    - [Esempio uso Combinazione di Classi CSS](http://simotae14.github.io/edx-web-development/modulo03/css-combining-classes/index)
+    - [Esempio uso Combinazione di Classi CSS](http://simotae14.github.io/edx-web-development/modulo03/css-combining-class/index)
     - [Esempio uso Combinazione di Selettori](http://simotae14.github.io/edx-web-development/modulo03/exercise-combining-selectors/index)
     - [Esempio sui Bordi](http://simotae14.github.io/edx-web-development/modulo03/borders/index)
     - [Esempio sul Margine ed il Padding](http://simotae14.github.io/edx-web-development/modulo03/exercise-margin-padding/index)
