@@ -53,4 +53,6 @@ List of samples:
     - [Esercizio Local Storage JS](http://simotae14.github.io/edx-web-development/modulo04/local-storage/index)
     - [Esercizio Geolocalizzazione JS](http://simotae14.github.io/edx-web-development/modulo04/geolocation/index)
     - [Esercizio Canvas JS](http://simotae14.github.io/edx-web-development/modulo04/canvas/index)
+    - [Esercizio Web Worker](http://simotae14.github.io/edx-web-development/modulo04/exercise-web-worker/index)
+    - [Esempio Web Socket](http://simotae14.github.io/edx-web-development/modulo04/web-socket/index)
     
