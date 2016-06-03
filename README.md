@@ -50,3 +50,7 @@ List of samples:
     - [Esercizio Operazioni JS](http://simotae14.github.io/edx-web-development/modulo04/exercise-js-operations/index)
     - [Esempio Navigare il DOM](http://simotae14.github.io/edx-web-development/modulo04/nav-dom/index)
     - [Esercizio Gestione Eccezioni JS](http://simotae14.github.io/edx-web-development/modulo04/exercise-handling-exceptions/index)
+    - [Esercizio Local Storage JS](http://simotae14.github.io/edx-web-development/modulo04/local-storage/index)
+    - [Esercizio Geolocalizzazione JS](http://simotae14.github.io/edx-web-development/modulo04/geolocation/index)
+    - [Esercizio Canvas JS](http://simotae14.github.io/edx-web-development/modulo04/canvas/index)
+    
