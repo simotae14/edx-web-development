@@ -48,3 +48,5 @@ List of samples:
     - [Esercizio sui Tipi di Dati](http://simotae14.github.io/edx-web-development/modulo04/exercise-js-data-types/index)
     - [Esercizio sul Valore Null](http://simotae14.github.io/edx-web-development/modulo04/exercise-js-null-value/index)
     - [Esercizio Operazioni JS](http://simotae14.github.io/edx-web-development/modulo04/exercise-js-operations/index)
+    - [Esempio Navigare il DOM](http://simotae14.github.io/edx-web-development/modulo04/nav-dom/index)
+    - [Esercizio Gestione Eccezioni JS](http://simotae14.github.io/edx-web-development/modulo04/exercise-handling-exceptions/index)
