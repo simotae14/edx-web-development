@@ -56,4 +56,11 @@ List of samples:
     - [Esercizio Web Worker](http://simotae14.github.io/edx-web-development/modulo04/exercise-web-worker/index)
     - [Esempio Web Socket](http://simotae14.github.io/edx-web-development/modulo04/web-socket/index)
     - [Terzo Assignment: aggiunta carosello Contoso News](http://simotae14.github.io/edx-web-development/modulo04/assignment-contoso-webpage/index)
+ - module05, librerie e Framework HTML, CSS e JavaScript:
+    - JQuery
+        - [Esempio jQuery DOM](http://simotae14.github.io/edx-web-development/modulo05/jquery-dom/index)
+        - [Esercizio jQuery DOM](http://simotae14.github.io/edx-web-development/modulo05/exercise-jquery-dom/index)
+        - [Esempio plugin jQuery Remodal](http://simotae14.github.io/edx-web-development/modulo05/jquery-plugin-remodal/index)
+        - [Esempio plugin jQuery Date Dropper](http://simotae14.github.io/edx-web-development/modulo05/jquery-plugin-datedropper/index)
+        - [Esempio plugin jQuery Owl Carousel](http://simotae14.github.io/edx-web-development/modulo05/jquery-plugin-owl-carousel/index)
     
