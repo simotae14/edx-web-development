@@ -63,4 +63,8 @@ List of samples:
         - [Esempio plugin jQuery Remodal](http://simotae14.github.io/edx-web-development/modulo05/jquery-plugin-remodal/index)
         - [Esempio plugin jQuery Date Dropper](http://simotae14.github.io/edx-web-development/modulo05/jquery-plugin-datedropper/index)
         - [Esempio plugin jQuery Owl Carousel](http://simotae14.github.io/edx-web-development/modulo05/jquery-plugin-owl-carousel/index)
-    
+        - [Esercizio jQuery call Web-services](http://simotae14.github.io/edx-web-development/modulo05/exercise-jquery-call-webservice/index)
+    - AngularJS
+        - [Esempio prima App AngularJS](http://simotae14.github.io/edx-web-development/modulo05/angularjs-first-sample/index)
+        - [Esempio App AngularJS incremento](http://simotae14.github.io/edx-web-development/modulo05/angularjs-increment/index)
+        
