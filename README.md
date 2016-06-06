@@ -68,4 +68,5 @@ List of samples:
         - [Esempio prima App AngularJS](http://simotae14.github.io/edx-web-development/modulo05/angularjs-first-sample/index)
         - [Esempio App AngularJS incremento](http://simotae14.github.io/edx-web-development/modulo05/angularjs-increment/index)
         - [Esercizio uso AngularJS](http://simotae14.github.io/edx-web-development/modulo05/exercise-angularjs-first-use/index)
+        - [Esercizio chiamate HTTP a webServices usando AngularJS](http://simotae14.github.io/edx-web-development/modulo05/exercise-angularjs-webservice-call/index)
         
